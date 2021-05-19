@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Yd5XbPSIwAZV3puvjdCV6j+C8ExQj3CJ4Z/3LuaLFvwje2bXMfMYU3CB4VWWnW6AsfKieHK7COOlDzT+fSAKcw==",
+  "dgSpecHash": "A1wco48BhN0TRXS84k6N+hzdBEJ4bZaEGYxmOCdY8uZe8AbKJGv9pkiWYyBI+zN1HY59vsqqFdLczWdwfHIPuA==",
   "success": true,
   "projectFilePath": "D:\\learn\\visualyze.ai\\aspNetCoreReact\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
